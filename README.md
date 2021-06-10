@@ -1,6 +1,8 @@
 ## Create conda env 
+```
 conda env create -f conda_env_gpu.yaml -n myenv
 conda activate myenv
+```
 
 
 ## To run the notebook
